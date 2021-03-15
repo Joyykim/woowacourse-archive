@@ -18,3 +18,5 @@
 | 2주차 | 자동차 경주 리팩터링 | [java-racingcar](https://github.com/Joyykim/java-racingcar/tree/step2) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/246) |
 | 3주차 | 로또 자동 | [java-lotto](https://github.com/Joyykim/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/251) |
 | 4주차 | 로또 수동 구매 | [java-lotto](https://github.com/Joyykim/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/307) | 
+| 5주차 | 블랙잭 구현 | [java-blackjack](https://github.com/Joyykim/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/161) | 
+| 6주차 | 블랙잭 배팅 | [java-blackjack](https://github.com/Joyykim/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/199) | 
