@@ -14,7 +14,7 @@
 
 | Project | Repository | Pull Request & Review |
 |:---:|:---:|:---|
-| 자동차 경주 1단계: 구현  | [java-racingcar](https://github.com/Joyykim/java-racingcar/tree/step1) | [PR](https://github.com/woowacourse/java-racingcar/pull/158) |
+| 자동차 경주 1단계: 구현  | [java-racingcar](https://github.com/Joyykim/java-racingcar/tree/step1) | [racingcar PR & Review](https://github.com/woowacourse/java-racingcar/pull/158) |
 | 자동차 경주 2단계: 리팩터링 | [java-racingcar](https://github.com/Joyykim/java-racingcar/tree/step2) | [PR](https://github.com/woowacourse/java-racingcar/pull/246) |
 | 로또 1단계: 자동 구매 | [java-lotto](https://github.com/Joyykim/java-lotto/tree/step1) | [PR](https://github.com/woowacourse/java-lotto/pull/251) |
 | 로또 2단계: 수동 구매 | [java-lotto](https://github.com/Joyykim/java-lotto/tree/step2) | [PR](https://github.com/woowacourse/java-lotto/pull/307) |
