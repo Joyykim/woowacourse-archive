@@ -27,4 +27,4 @@
 
 | Project | Repository | Pull Request & Review |
 |:---:|:---:|:---|
-| 스프링 체스 1~2단계 | [jwp-chess](https://github.com/Joyykim/jwp-chess/tree/step1,2) | [chess PR & Review](https://github.com/woowacourse/jwp-chess/pull/228) |
+| 스프링 체스 1~2단계: Spring 적용 | [jwp-chess](https://github.com/Joyykim/jwp-chess/tree/step1,2) | [chess PR & Review](https://github.com/woowacourse/jwp-chess/pull/228) |
