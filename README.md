@@ -20,4 +20,11 @@
 | 로또 2단계: 수동 구매 | [java-lotto](https://github.com/Joyykim/java-lotto/tree/step2) | [lotto PR & Review](https://github.com/woowacourse/java-lotto/pull/307) |
 | 블랙잭 1단계: 구현 | [java-blackjack](https://github.com/Joyykim/java-blackjack/tree/step1) | [blackjack PR & Review](https://github.com/woowacourse/java-blackjack/pull/161) |
 | 블랙잭 2단계: 배팅 | [java-blackjack](https://github.com/Joyykim/java-blackjack/tree/step2) | [blackjack PR & Review](https://github.com/woowacourse/java-blackjack/pull/199) |
-| 체스 1~3단계: 콘솔 | [java-blackjack](https://github.com/Joyykim/java-chess/tree/step1) | [chess PR & Review](https://github.com/woowacourse/java-chess/pull/169) |
+| 체스 1~3단계: 콘솔 | [java-chess](https://github.com/Joyykim/java-chess/tree/step1) | [chess PR & Review](https://github.com/woowacourse/java-chess/pull/169) |
+| 체스 4~5단계: WebUI | [java-chess](https://github.com/Joyykim/java-chess/tree/step4) | [chess PR & Review](https://github.com/woowacourse/java-chess/pull/219) |
+
+## 레벨2
+
+| Project | Repository | Pull Request & Review |
+|:---:|:---:|:---|
+| 스프링 체스 1~3단계: 콘솔 | [java-chess](https://github.com/Joyykim/jwp-chess/tree/step1,2) | [chess PR & Review](https://github.com/woowacourse/jwp-chess/pull/228) |
