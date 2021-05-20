@@ -27,4 +27,6 @@
 
 | Project | Repository | Pull Request & Review |
 |:---:|:---:|:---|
-| 스프링 체스 1~2단계: Spring 적용 | [jwp-chess](https://github.com/Joyykim/jwp-chess/tree/step1) | [chess PR & Review](https://github.com/woowacourse/jwp-chess/pull/272) |
+| 스프링 - 체스 1~2단계: Spring 적용 | [jwp-chess](https://github.com/Joyykim/jwp-chess/tree/step1) | [chess PR & Review](https://github.com/woowacourse/jwp-chess/pull/272) |
+| 스프링 - 지하철 노선도 관리 1~2단계: 역/노선 관리 | [attd-subway-map](https://github.com/Joyykim/atdd-subway-map/tree/step1) | [chess PR & Review](https://github.com/woowacourse/atdd-subway-map/pull/107) |
+| 스프링 - 지하철 노선도 관리 3단계: 역/노선 관리 | [attd-subway-map](https://github.com/Joyykim/atdd-subway-map/tree/step3) | [chess PR & Review](https://github.com/woowacourse/atdd-subway-map/pull/157) |
